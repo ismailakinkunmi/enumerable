@@ -25,7 +25,7 @@ $ git clone git@github.com:ismailakinkunmi/enumerable.git
 ```
 
 ```
-$ cd morse_decoder
+$ cd enumerable
 ```
 
 ```
