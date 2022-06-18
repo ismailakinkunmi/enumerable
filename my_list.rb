@@ -5,6 +5,7 @@ class MyList
   def initialize(*args)
     @list = args
   end
+
   def each()
     return to_enum(:each) unless block_given?
 
